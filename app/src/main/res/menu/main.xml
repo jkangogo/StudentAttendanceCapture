@@ -1,0 +1,18 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:orderInCategory="101"
+        android:title="View Student List" />
+    <item
+        android:orderInCategory="103"
+        android:title="View Attendance" />
+    <item
+        android:id="@+id/btnL"
+        android:orderInCategory="104"
+        android:title="logout" />
+    <item
+        android:orderInCategory="102"
+        android:title="Help" />
+
+</menu>
