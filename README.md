@@ -7,3 +7,4 @@ A Biometric based mobile application for capturing student-class attendance in C
 ![Lecturer login](https://user-images.githubusercontent.com/46781298/100547039-bab63d80-3275-11eb-8d56-f8723d4691f3.png)
 ![Lecturer Activitiy](https://user-images.githubusercontent.com/46781298/100547037-ba1da700-3275-11eb-8212-8a83cbd172a2.png)
 ![Student sesson](https://user-images.githubusercontent.com/46781298/100547042-bbe76a80-3275-11eb-8494-e9d2b9521ae8.png)
+Thank you guys!
